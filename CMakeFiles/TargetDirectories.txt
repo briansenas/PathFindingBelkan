@@ -1,0 +1,9 @@
+/home/briansena/Uni2/AI/Practicas/P2/CMakeFiles/rebuild_cache.dir
+/home/briansena/Uni2/AI/Practicas/P2/CMakeFiles/edit_cache.dir
+/home/briansena/Uni2/AI/Practicas/P2/CMakeFiles/BelkanSG.dir
+/home/briansena/Uni2/AI/Practicas/P2/CMakeFiles/Belkan.dir
+/home/briansena/Uni2/AI/Practicas/P2/CMakeFiles/motorLib.dir
+/home/briansena/Uni2/AI/Practicas/P2/CMakeFiles/GLUILib.dir
+/home/briansena/Uni2/AI/Practicas/P2/CMakeFiles/comportamientosLib.dir
+/home/briansena/Uni2/AI/Practicas/P2/CMakeFiles/modelosBelkanLib.dir
+/home/briansena/Uni2/AI/Practicas/P2/CMakeFiles/obj3DLib.dir
