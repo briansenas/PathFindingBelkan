@@ -1,6 +1,6 @@
 # PathFindingBelkan
 Developed multiple path finding algorithms and reactive-like machine.
-`./install.sh` and then we could `./Belkan
+`./install.sh` and then we could `./Belkan` 
 
 ## Depth First-Search
 Non-garantee of optimal solution, problems with convergence and halting, could cycle but pretty fast.
